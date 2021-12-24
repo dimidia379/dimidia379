@@ -1,6 +1,5 @@
-### Hi there 👋 Welcome to my GitHub page!
-#### I'm Julia Zvereva and I'm a QA engineer.
-#### I’m currently learning Java for automation testing.
+### Hello, I'm Julia
+#### I'm a QA engineer, learning Java for automation testing.
 
 ### Contacts:
 
