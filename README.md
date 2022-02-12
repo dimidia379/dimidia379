@@ -15,5 +15,5 @@
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimidia379&show_icons=true&theme=calm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimidia379)](https://github.com/dimidia379/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimidia379&theme=calm)](https://github.com/dimidia379/github-readme-stats)
 
