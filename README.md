@@ -13,7 +13,7 @@
 + [Telegram](https://t.me/Yuliya_Zvereva)
 + [Linkedin](https://www.linkedin.com/in/julia-zvereva-0b65301ba/)
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimidia379&show_icons=true&theme=dracula)
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimidia379&show_icons=true&theme=calm)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimidia379)](https://github.com/dimidia379/github-readme-stats)
 
